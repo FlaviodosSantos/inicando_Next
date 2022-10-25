@@ -18,3 +18,5 @@ github do curso
 04_navegando_entre_pages => aula#06
 <br>
 05_components => aula#07
+<br>
+06_layout => aula#08
