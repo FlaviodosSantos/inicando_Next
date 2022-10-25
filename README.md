@@ -14,3 +14,5 @@ github do curso
 02_pages_e_router => aula#04
 <br>
 03_nested_routes => aula#05
+<br>
+04_navegando_entre_pages => aula#06
