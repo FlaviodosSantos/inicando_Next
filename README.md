@@ -22,3 +22,5 @@ github do curso
 06_layout => aula#08
 <br>
 07_css => aula#09
+<br>
+08_metadado => aula#10
