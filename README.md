@@ -16,3 +16,5 @@ github do curso
 03_nested_routes => aula#05
 <br>
 04_navegando_entre_pages => aula#06
+<br>
+05_components => aula#07
