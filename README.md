@@ -24,3 +24,6 @@ github do curso
 07_css => aula#09
 <br>
 08_metadado => aula#10
+<br>
+09_assets => aula#11
+<br>
