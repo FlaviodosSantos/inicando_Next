@@ -27,3 +27,5 @@ github do curso
 <br>
 09_assets => aula#11
 <br>
+10_fetch_data
+<br>
