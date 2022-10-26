@@ -27,5 +27,7 @@ github do curso
 <br>
 09_assets => aula#11
 <br>
-10_fetch_data
+10_fetch_data => aula#12
+<br>
+11_dynamic_routes => aula#13
 <br>
